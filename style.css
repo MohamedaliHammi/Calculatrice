@@ -3,9 +3,7 @@
     margin: 0;
     padding: 0;
 }
-body{
-   
-}
+
 
 .container{
     max-width:400px;
@@ -16,7 +14,6 @@ body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: right;
     line-height: 20px;
-    color: rgb(27, 27, 145);
     padding: 50px 8px;
     font-size: 30px;
     border: 1px solid #999;
